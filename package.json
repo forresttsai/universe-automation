@@ -1,5 +1,5 @@
 {
-  "name": "@<owner>/<repository-name>",
+  "name": "@forresttsai/universe-automation",
   "version": "1.0.0",
   "description": "Demo repository for GitHub Universe 2020",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/<owner>/<repository-name>.git"
+    "url": "git+https://github.com/forresttsai/universe-automation"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/<owner>/<repository-name>/issues"
+    "url": "https://github.com/forresttsai/universe-automation"
   },
-  "homepage": "https://github.com/<owner>/<repository-name>#readme",
+  "homepage": "https://github.com/forresttsai/universe-automation#readme",
   "dependencies": {}
 }
