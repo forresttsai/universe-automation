@@ -1,4 +1,4 @@
 # universe-automation
 Workflow
 
-#This shoudld trigger the CI
+# This shoudld trigger the CI
